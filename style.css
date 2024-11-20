@@ -30,7 +30,7 @@ body,html{
     display: flex;
     align-items: center;
     padding-left: 20px;
-    background-image: url(Images/pngwing.com.png);
+    background-image: url(pngwing.com.png);
     background-position: 80%;
     background-size: 25%;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@ body,html{
     display: flex;
     align-items: center;
     padding-left: 20px;
-    background-image: url(Images/Ketchup.jpg);
+    background-image: url(Ketchup.jpg);
     background-position: 80%;
     background-size: 25%;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ body,html{
     grid-template-rows: repeat(3, 1fr);
 }
 .scd-content{
-    background: url(Images/vecteezy_falling-confetti-colorfull-paper-for-celebrating_51216396online-video-cutter.com-ezgif.com-video-to-gif-converter.gif);
+    background: url(vecteezy_falling-confetti-colorfull-paper-for-celebrating_51216396online-video-cutter.com-ezgif.com-video-to-gif-converter.gif);
     display: flex;
     justify-content: center;
     flex-direction: column;
