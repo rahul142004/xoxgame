@@ -31,12 +31,12 @@ boxes.forEach((box) => {
         click++;
         let winner = '';
         if (click % 2 == 0) {
-            box.style.backgroundImage = "url(Images/Ketchup.jpg)";
+            box.style.backgroundImage = "url(Ketchup.jpg)";
             you.classList.add('border');
             opp.classList.remove('border');
             winner = 'You'
         } else {
-            box.style.backgroundImage = "url(Images/pngwing.com.png)";
+            box.style.backgroundImage = "url(pngwing.com.png)";
             you.classList.remove('border');
             opp.classList.add('border');
             winner = 'Opp'
